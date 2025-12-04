@@ -1,0 +1,7 @@
+{
+  "name": "Lazy Meal Decider",
+  "description": "A zero-thinking recipe generator for lazy cooks. Input your ingredients, get instant 5-minute, 1-pan, and quick meal options.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
